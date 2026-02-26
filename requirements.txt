@@ -1,0 +1,13 @@
+numpy
+pandas
+nltk
+spacy
+tensorflow
+transformers
+torch
+scikit-learn
+sentencepiece
+matplotlib
+seaborn
+customtkinter
+selenium>=4.10
